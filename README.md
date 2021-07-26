@@ -13,8 +13,8 @@ Notes with the function of deleting, editing and adding to favorites
 
 ![notes6](https://user-images.githubusercontent.com/77191978/126946359-a868f0b3-f7d6-4545-90c7-fd0504ffcad2.jpg)
 
-##Important Screen
+## Important Screen
 ![notes4](https://user-images.githubusercontent.com/77191978/126946302-b01a03b5-23b2-416a-a37e-06fba5c04e7b.jpg)
 
-##Note Screen
+## Note Screen
 ![notes5](https://user-images.githubusercontent.com/77191978/126946402-2e295cff-2252-4a50-be1a-e230a068deae.jpg)
